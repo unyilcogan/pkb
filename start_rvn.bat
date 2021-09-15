@@ -1,1 +1,1 @@
-nbminer -a kawpow -o stratum+tcp://rvn-pool.beepool.org:9531 -u RW7W1X392kJy2Hf3WwHVGaUcY56Hy6R2YN.default
+nbminer -a kawpow -o stratum+ssl://asia-rvn.2miners.com:16060 -u RXdfHyWtbY4Aj4mn3u13tut3EpaJggU2Qi.Betacuan
